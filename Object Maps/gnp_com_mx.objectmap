@@ -1,0 +1,21 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="gnp_com_mx" locator="//BrowserApplication" urlPattern="*gnp.com.mx*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id="browser-default ng-p" locator="//INPUT[@class=&apos;browser-default ng-p*&apos;][2]"/>
+      <ObjectMapEntry id="contacto" locator="//SELECT[@name=&apos;contacto&apos;]"/>
+      <ObjectMapEntry id="cotizar" locator="//BUTTON[@id=&apos;cotizar&apos;]"/>
+      <ObjectMapEntry id="cp" locator="//INPUT[@name=&apos;cp&apos;]"/>
+      <ObjectMapEntry id="descripcion" locator="//SELECT[@name=&apos;descripcion&apos;]"/>
+      <ObjectMapEntry id="edad" locator="//INPUT[@name=&apos;edad&apos;]"/>
+      <ObjectMapEntry id="email" locator="//INPUT[@name=&apos;email&apos;]"/>
+      <ObjectMapEntry id="genero" locator="//INPUT[@name=&apos;genero&apos;][2]"/>
+      <ObjectMapEntry id="marca" locator="//SELECT[@name=&apos;marca&apos;]"/>
+      <ObjectMapEntry id="modelo" locator="//SELECT[@name=&apos;modelo&apos;]"/>
+      <ObjectMapEntry id="section-carro" locator="//DIV[@id=&apos;section-carro&apos;]"/>
+      <ObjectMapEntry id="submarca" locator="//SELECT[@name=&apos;submarca&apos;]"/>
+      <ObjectMapEntry id="tel" locator="//INPUT[@name=&apos;tel&apos;]"/>
+      <ObjectMapEntry id="tipo_vehiculo" locator="//SELECT[@name=&apos;tipo_vehiculo&apos;]"/>
+      <ObjectMapEntry id="×" locator="//DIV[@textContents=&apos;×&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

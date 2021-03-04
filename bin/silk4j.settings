@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="20.5">
+  <applicationConfiguration>
+    <browserType>GoogleChrome</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>www.gnp.com.mx</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions>
+    <entry>
+      <string>OPT_ASSET_NAMESPACE</string>
+      <string>CotizaCarroGNP</string>
+    </entry>
+  </agentOptions>
+</recorderProject>
